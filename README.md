@@ -1,2 +1,55 @@
-# Microsoft-365-Fundamentals-MS900
-"Comprehensive documentation and lab notes for the MS-900 Microsoft 365 Fundamentals certification. Exploring Cloud computing models, M365 core services, security, compliance, and licensing."
+# ☁️ Microsoft 365 Fundamentals (MS-900) Mastery
+
+Welcome to my MS-900 certification journey! This repository serves as a centralized hub for my study notes, hands-on labs, and conceptual breakdowns of the Microsoft 365 ecosystem.
+
+---
+
+## 🗺 Learning Roadmap & Progress
+
+### 📂 1. Describe Cloud Concepts
+*Understanding the "Why" and "How" of Cloud Computing.*
+- **Status:** ▓▓▓░░░░░░░ 30%
+- [ ] Business Benefits of Cloud (Cost, Scalability, Reliability).
+- [x] Cloud Service Types (IaaS, PaaS, SaaS).
+- [ ] Public, Private, and Hybrid Cloud Models.
+- **Notes:** [View Section](./01-Cloud-Concepts)
+
+---
+
+### 📂 2. Describe M365 Apps & Services
+*Exploring the tools that power modern work.*
+- **Status:** ░░░░░░░░░░ 0%
+- [ ] Productivity Apps (Word, Excel, PowerPoint).
+- [ ] Collaboration Tools (Teams, SharePoint, OneDrive).
+- [ ] Endpoint Management & Deployment.
+- **Notes:** [View Section](./02-Apps-and-Services)
+
+---
+
+### 📂 3. Describe Security, Compliance, & Trust
+*How Microsoft protects data and ensures privacy.*
+- **Status:** ░░░░░░░░░░ 0%
+- [ ] Zero Trust Model & Defense in Depth.
+- [ ] Identity & Access (Entra ID, MFA).
+- [ ] Compliance Manager & Service Trust Portal.
+- **Notes:** [View Section](./03-Security-and-Compliance)
+
+---
+
+### 📂 4. Describe M365 Pricing & Support
+*Licensing models and service lifecycle.*
+- **Status:** ░░░░░░░░░░ 0%
+- [ ] M365 Pricing and Subscription Plans.
+- [ ] Service Level Agreements (SLAs).
+- [ ] Service Lifecycle (Preview vs. General Availability).
+- **Notes:** [View Section](./04-Pricing-and-Support)
+
+---
+
+## 🛠 Practice Environment
+I utilize the **Microsoft 365 Developer Program** to practice:
+- **Tenant Administration:** Managing Users & Licenses.
+- **Security Policy Testing:** MFA and Conditional Access.
+
+---
+*Last Updated: 2026-05-07*
