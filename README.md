@@ -8,6 +8,8 @@ Welcome to my MS-900 certification journey! This repository serves as a centrali
 
 ### 📂 1. Describe Cloud Concepts
 *Understanding the "Why" and "How" of Cloud Computing.*
+
+
 *“The cloud is not just a place to store data, it's a platform to build the future.”* ☁️
 - **Status:COMPLETED** | ██████████ 100% ✅
 - [x] **Cloud Models:** Public, Private, Hybrid, and Multi-cloud.
