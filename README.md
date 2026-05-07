@@ -8,10 +8,13 @@ Welcome to my MS-900 certification journey! This repository serves as a centrali
 
 ### 📂 1. Describe Cloud Concepts
 *Understanding the "Why" and "How" of Cloud Computing.*
-- **Status:** ▓▓▓░░░░░░░ 30%
-- [ ] Business Benefits of Cloud (Cost, Scalability, Reliability).
-- [x] Cloud Service Types (IaaS, PaaS, SaaS).
-- [ ] Public, Private, and Hybrid Cloud Models.
+*“The cloud is not just a place to store data, it's a platform to build the future.”* ☁️
+- **Status:COMPLETED** | ██████████ 100% ✅
+- [x] **Cloud Models:** Public, Private, Hybrid, and Multi-cloud.
+- [x] **Shared Responsibility:** Who manages what (Provider vs. Customer).
+- [x] **Service Types:** IaaS, PaaS, and SaaS definitions and use cases.
+- [x] **Economics:** Moving from CapEx to OpEx (Consumption-based model).
+- [x] **Core Concepts:** High Availability, Scalability, and Elasticity.
 **Learning Source:** [Microsoft Learn: Describe Cloud Compute](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) 🔗
 - **Notes:** [View Section](./01-Cloud-Concepts)
 
