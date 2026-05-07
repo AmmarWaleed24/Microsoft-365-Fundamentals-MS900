@@ -12,6 +12,7 @@ Welcome to my MS-900 certification journey! This repository serves as a centrali
 - [ ] Business Benefits of Cloud (Cost, Scalability, Reliability).
 - [x] Cloud Service Types (IaaS, PaaS, SaaS).
 - [ ] Public, Private, and Hybrid Cloud Models.
+**Learning Source:** [Microsoft Learn: Describe Cloud Compute](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) 🔗
 - **Notes:** [View Section](./01-Cloud-Concepts)
 
 ---
