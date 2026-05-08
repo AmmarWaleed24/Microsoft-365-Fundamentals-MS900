@@ -28,4 +28,5 @@ Cloud computing is not just about virtual machines; it's an ecosystem that deliv
 | **Setup Time** | Weeks or Months | Minutes |
 | **Cost Model** | High Upfront (CapEx) | Pay-as-you-go (OpEx) |
 | **Scaling** | Difficult (Manual) | Dynamic (Automatic) |
-| **Maintenance** | Your Responsibility | Managed by Cloud Provider |
+| **Maintenance** | Your Responsibility | Managed by Cloud Providers |
+
