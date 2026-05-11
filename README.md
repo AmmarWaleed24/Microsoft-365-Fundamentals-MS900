@@ -30,6 +30,7 @@ Welcome to my MS-900 certification journey!!! This repository serves as a centra
 - [ ] Endpoint Management & Deployment.
 - **Notes:** [View Section](./02-Apps-and-Services)
 
+**Learning Source:** [Microsoft Learn: Describe Cloud Compute](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/7-summary#completion/) 🔗
 ---
 
 ### 📂 3. Describe Security, Compliance, & Trust
