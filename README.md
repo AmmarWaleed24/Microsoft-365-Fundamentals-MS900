@@ -21,16 +21,27 @@ Welcome to my MS-900 certification journey!!! This repository serves as a centra
 - **Notes:** [View Section](./01-Cloud-Concepts)
 
 ---
+### 📂 02. Microsoft 365 Apps & Services
+> *Exploring the tools that power modern work and digital transformation.*
 
-### 📂 2. Describe M365 Apps & Services
-*Exploring the tools that power modern work.*
-- **Status:**  ██████████ 100%
-- [ ] Productivity Apps (Word, Excel, PowerPoint).
-- [ ] Collaboration Tools (Teams, SharePoint, OneDrive).
-- [ ] Endpoint Management & Deployment.
-- **Notes:** [View Section](./02-Apps-and-Services)
+| Feature | Status | Task |
+| :--- | :---: | :--- |
+| **Productivity Apps** | ✅ | Word, Excel, PowerPoint & Outlook |
+| **Collaboration Tools** | ✅ | Teams, SharePoint & OneDrive |
+| **Endpoint Management** | ✅ | Deployment & Device Management |
 
-**Learning Source:** [Microsoft Learn: Describe Cloud Compute](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/7-summary#completion/) 🔗
+**Current Progress:** `██████████ 100%` 🎯
+
+---
+
+#### 📝 Key Learning Notes
+* **Summary:** Understanding how M365 transitions businesses from static tools to a dynamic, cloud-based ecosystem.
+* **Deep Dive:** [View Full Section Notes](./02-Apps-and-Services) 📑
+
+#### 🔗 Learning Resources
+* **Primary Source:** [MS Learn: Cloud Compute Summary](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/7-summary) 🔗
+* **Exam Focus:** MS-900 (Describe Microsoft 365 apps and services)
+
 ---
 
 ### 📂 3. Describe Security, Compliance, & Trust
