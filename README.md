@@ -24,7 +24,7 @@ Welcome to my MS-900 certification journey!!! This repository serves as a centra
 
 ### 📂 2. Describe M365 Apps & Services
 *Exploring the tools that power modern work.*
-- **Status:** ░░░░░░░░░░ 0%
+- **Status:**  ██████████ 100%
 - [ ] Productivity Apps (Word, Excel, PowerPoint).
 - [ ] Collaboration Tools (Teams, SharePoint, OneDrive).
 - [ ] Endpoint Management & Deployment.
